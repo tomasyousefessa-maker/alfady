@@ -1,0 +1,6 @@
+{
+  "name": "المسبحة الدينية – اختبر معلوماتك",
+  "description": "لعبة دينية مسيحية تعليمية تفاعلية لاختبار معلوماتك في الكتاب المقدس وتاريخ الكنيسة وسير القديسين. تم الإنشاء بواسطة توماس يوسف (Tomas Yousef).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
